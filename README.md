@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 - 🎓 Academic formations: Computer science
 - 📧 My contact email: julyannaaraujoalbuquerque@gmail.com
-- 📫 How to reach me: https://www.linkedin.com/in/julyanna-albuquerque-03606224b/
+- 📫 How to reach me: https://www.linkedin.com/in/julyanna-albuquerque/
 
 <div align ="centro">
   <a href="https://github.com/Julyannaalbuquer">
@@ -29,7 +29,7 @@
 <div>
 <a href="https://instagram.com/julyannaalbuquer" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discordapp.com/users/Ju_albuquer#9521" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/julyanna-albuquerque-03606224b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " target="_blank"></a>
+<a href="https://www.linkedin.com/in/julyanna-albuquerque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " target="_blank"></a>
 <a href="mailto:julyannaaraujoalbuquerque@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>   
    
