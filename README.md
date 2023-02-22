@@ -1,7 +1,7 @@
 ### Hello guys! Welcome to my profile 👋
 
 - 💻 IT support and Software developer!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 🎓 Academic formations: Computer science
 - 📧 My contact email: julyannaaraujoalbuquerque@gmail.com
 - 📫 How to reach me: https://www.linkedin.com/in/julyanna-albuquerque/
