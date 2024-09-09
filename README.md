@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador"  max-width="400px" width="350px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador"  max-width="400px" width="320px" align="right">
 
 ### Hello guys! Welcome to my profile 👋
 
@@ -8,7 +8,7 @@
 - 📧 My contact email: julyannaaraujoalbuquerque@gmail.com
 - 📫 How to reach me: https://www.linkedin.com/in/julyanna-albuquerque/
 
-<div align ="centro"><br><br><br>
+<div align ="centro"><br><br>
   <a href="https://github.com/Julyannaalbuquer">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Julyannaalbuquer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julyannaalbuquer&layout=compact&langs_count=7&theme=radical"/>
