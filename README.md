@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador"  max-width="400px" width="320px" align="right">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6214FF&background=3E20FF00&center=&vCenter=&random=&width=435&lines=Hello+guys!+Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A0FC0&background=3E20FF00&center=&vCenter=&random=&width=435&lines=Hello+guys!+Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 💻 IT support and Software developer!
 - 🌱 I’m currently learning: Python
