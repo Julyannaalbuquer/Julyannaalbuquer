@@ -55,6 +55,8 @@
   <a href="mailto:julyannaaraujoalbuquerque@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>   
 
+![Divisor](https://github.com/julyannaalbuquer/julyannaalbuquer/raw/main/side-divider.png)
+
 ![Snake animation](https://github.com/Julyannaalbuquer/Julyannaalbuquer/blob/main/.github/workflows/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A02DF6&height=120&section=footer"/>
