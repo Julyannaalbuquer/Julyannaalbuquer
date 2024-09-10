@@ -12,6 +12,8 @@
 
 <br>
 
+## ⚙️ GitHub Analytics
+
 <table>
   <tr>
     <td>
@@ -44,7 +46,7 @@
 ## 🚀 Technologies and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,figma)](https://skillicons.dev)
  
- ## 🖥 Operating systems I use:
+ ### 🖥 Operating systems I use:
 
  [![Systems](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
    
