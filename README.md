@@ -39,6 +39,8 @@
   </tr>
 </table>
 
+![Divisor](https://github.com/julyannaalbuquer/julyannaalbuquer/raw/main/divisor.png)
+
 ## 🚀 Technologies and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,figma)](https://skillicons.dev)
  
