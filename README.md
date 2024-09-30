@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-![Divisor](https://github.com/julyannaalbuquer/julyannaalbuquer/raw/main/divider.png)
+![Divisor](https://github.com/julyannaalbuquer/julyannaalbuquer/raw/main/src/divider.png)
 
 ## 🚀 Technologies and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,figma)](https://skillicons.dev)
@@ -57,7 +57,7 @@
   <a href="mailto:julyannaaraujoalbuquerque@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>   
 
-![Divisor](https://github.com/julyannaalbuquer/julyannaalbuquer/raw/main/side-divider.png)
+![Divisor](https://github.com/julyannaalbuquer/julyannaalbuquer/raw/main/src/side-divider.png)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julyannaalbuquer/Julyannaalbuquer/output/github-contribution-grid-snake-dark.svg">
