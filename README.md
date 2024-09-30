@@ -59,7 +59,10 @@
 
 ![Divisor](https://github.com/julyannaalbuquer/julyannaalbuquer/raw/main/side-divider.png)
 
-![Snake animation](https://github.com/Julyannaalbuquer/Julyannaalbuquer/blob/main/.github/workflows/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julyannaalbuquer/Julyannaalbuquer/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Julyannaalbuquer/Julyannaalbuquer/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A02DF6&height=120&section=footer"/>
 
