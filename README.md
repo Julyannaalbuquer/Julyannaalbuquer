@@ -4,10 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A02DF6&background=3E20FF00&center=&vCenter=&random=&width=435&lines=Hello+guys!+Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- 💻 IT support and Software developer!
-- 🌱 I’m currently learning: Python
+- 💻 Back-End Developer!
+- 🌱 I’m currently learning: Java
 - 🎓 Academic formations: Computer science
-- 📧 My contact email: julyannaaraujoalbuquerque@gmail.com
 - 📫 How to reach me: https://www.linkedin.com/in/julyanna-albuquerque/
 
 <br>
